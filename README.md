@@ -57,6 +57,7 @@ Ecomstore is designed to be a scalable and feature-rich e-commerce platform. It 
 ### Prerequisites
 
 - Node.js (v18 or higher)
+- Tailwind CSS (v4 or higher)
 - PostgreSQL database
 - Stripe and PayPal accounts for payment integration
 
